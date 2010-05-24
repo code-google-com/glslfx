@@ -1,0 +1,6 @@
+technique simple          {
+  pass p0 {
+    vertex: "simple_vert.glsl"
+    fragment: simple_frag.glsl
+  }	      
+}
